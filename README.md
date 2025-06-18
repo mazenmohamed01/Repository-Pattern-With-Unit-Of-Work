@@ -81,8 +81,8 @@ To get started with this project:
    ```bash
    git clone https://github.com/mazenmohamed01/Repository-Pattern-With-Unit-Of-Work.git
 
-   📝 Summary
+  ## 📝 Summary
 This project demonstrates a well-structured approach to implementing Repository and Unit of Work patterns in .NET. It serves as a foundation for building robust, maintainable, and testable applications suitable for enterprise environments.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have any suggestions or want to improve this architecture, feel free to open an issue or submit a pull request.
